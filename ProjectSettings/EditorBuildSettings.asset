@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b3d291ba7765a4c43ae4c4e15c6ea099
+  - enabled: 1
+    path: Assets/Scenes/Construction Site.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Scene 1 Mine.unity
+    guid: 5654188e544627745bb9f89c725c819d
+  - enabled: 1
+    path: Assets/Scenes/Scene 3 Mine 1.unity
+    guid: f1c2b9d987cc3be41bfa40a9d7d75826
+  - enabled: 1
+    path: Assets/Scenes/Scene 5 Mine 1.unity
+    guid: a63ca64e61256a0449c4fa3bfc7884ea
+  - enabled: 1
+    path: Assets/Scenes/Scene 2 Mine.unity
+    guid: 199e78b101bdf194c94ccd95896f79db
+  - enabled: 1
+    path: Assets/Scenes/Scene 4 Mine 1.unity
+    guid: 1f92b74775e25a748b99821050d4c866
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1b7dd83111fa07946977946bd5acf1d0, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9e2a9589ab7cbb14b8a5197114cf475c, type: 2}
